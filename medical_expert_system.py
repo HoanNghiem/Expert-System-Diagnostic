@@ -1,4 +1,4 @@
-from experta import *
+from pyknow import *
 
 diseases_list = []
 diseases_symptoms = []
